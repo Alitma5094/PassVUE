@@ -1,0 +1,32 @@
+body {
+  width: 400px;
+  text-align: center;
+  padding: 5%;
+}
+  
+button {
+  margin: 10px;
+}
+
+.hall_passes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pass {
+  display: flex;
+  max-width: 350px;
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: start;
+}
+
+.pass .photo {
+  flex: 0 0 50px;
+  margin-right: 20px;
+}
+
