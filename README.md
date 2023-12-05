@@ -8,8 +8,8 @@ _Get notifications directly on yor computer when a student restests a pass in Sy
 
 **Google Chrome / Microsoft Edge**
 
-1. Download this repo as a [ZIP file from GitHub](https://github.com/alitma5094/passvue/archive/master.zip).
-1. Unzip the file and you should have a folder named `passvue-master`.
+1. Download this repo as a [ZIP file from GitHub](https://github.com/alitma5094/passvue/archive/main.zip).
+1. Unzip the file and you should have a folder named `passvue-main`.
 1. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 1. Enable Developer Mode.
-1. Drag the `passvue-master` folder anywhere on the page to import it (do not delete the folder afterwards).
+1. Drag the `passvue-main` folder anywhere on the page to import it (do not delete the folder afterwards).
